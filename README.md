@@ -2,7 +2,7 @@
 Unzip to some dir and turn on that at google extensions.
 
 
-Click "load extension" and change dir with extension.
+Click "load extension" and change dir "extension".
 
 
 if u have some questions:
